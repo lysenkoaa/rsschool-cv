@@ -19,3 +19,22 @@ ___
 - Unix, Linux, Docker, Apache, Nginx
 - Git, GitHub
 - Figma, Adobe Photoshop, CorelDRAW
+
+___
+## **Work Experience:**
+
+- Creation of websites and information systems
+- Administration of operating systems, networks and databases
+- Programming and development of desktop applications
+
+---
+##  **Education:**
+
+- Angarsk State Technical Academy (*specialization: Software engineer*)
+- Angarsk Economics and Law College (*specialization: Programmer technician*)
+
+---
+## **Languages:**
+
+- Russian - Native
+- English - B2
