@@ -61,6 +61,11 @@ a:hover {
 	text-decoration: underline;
 }
 
+#code-examples pre {
+	background-color: #f0f0f0;
+	padding: 10px 20px;
+}
+
 footer {
 	margin: 35px 0;
 	text-align: center;
