@@ -48,6 +48,17 @@ header {
 	padding-bottom: 20px;
 }
 
+header .base-info {
+	display: flex;
+	justify-content: center;
+	gap: 3em;
+}
+
+header .base-info .photo img {
+	border-radius: 50%;
+	border: 1px solid #c5c5c5;
+}
+
 h1 {
 	color: #333;
 }
@@ -59,6 +70,11 @@ a {
 
 a:hover {
 	text-decoration: underline;
+}
+
+#code-examples pre {
+	background-color: #f0f0f0;
+	padding: 10px 20px;
 }
 
 footer {
